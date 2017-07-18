@@ -1,6 +1,14 @@
-# best-learning-resources
-The best learning resources. Pure gold!! 🥇🥇🥇
+# Content
 
+- 1 - Best learning **courses**. Pure gold!! 🥇🥇🥇
+- 2 - Best links for a **quick start** or **practical examples**.
+- 3 - Best links for **deeper or specific knowledge**.
+- 4 - Best tech **talks**.
+- 5 - Backlog: Still to read/watch.
+
+
+1 - Best learning **courses**. Pure gold!! 🥇🥇🥇
+---
 
 ### JavaScript
 
@@ -22,4 +30,4 @@ The best learning resources. Pure gold!! 🥇🥇🥇
 
 - [ ] 🇪🇸 [VueJS] [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) by Antonio Dongil
 
-
+- [ ] [Redux] [10 Tips for better Architecture with Redux](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
