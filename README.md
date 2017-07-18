@@ -12,7 +12,7 @@ The best learning resources. Pure gold!! 🥇🥇🥇
 
 ### React
 
-- [x] [React for beginners]() by Wesbos
+- [x] [React for beginners](https://reactforbeginners.com/) by Wesbos
 
 ### Redux
 
