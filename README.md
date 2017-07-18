@@ -33,6 +33,12 @@
 
 - [x] [CSS Grid Layout](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) by Rachel Andrew 🎞 🆓 
 
+- [x] [CSS Grid garden](http://cssgridgarden.com/) by Codepip 🎮 🆓 
+
+## Flexbox
+
+- [x] [Flexbox froggy](http://www.digitaltrends.com/computing/best-product-key-finders/) by Codepip 🎮 🆓 
+
 5 - Backlog: (still to read/watch)
 ---
 
