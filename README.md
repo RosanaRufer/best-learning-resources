@@ -1,7 +1,7 @@
 # Content
 
 - 1 - [Best learning **courses**. Pure gold!! 🥇🥇🥇](https://github.com/Totemika/best-learning-resources#1---best-learning-courses-pure-gold-)
-- 2 - Best links for a **quick start** or **practical examples**.
+- 2 - [Best links for a **quick start** or **practical examples**.](https://github.com/Totemika/best-learning-resources#2-best-links-for-a-quick-start-or-practical-examples)
 - 3 - Best links for **deeper or specific knowledge**.
 - 4 - Best tech **talks**.
 - 5 - [Backlog: Still to read/watch.](https://github.com/Totemika/best-learning-resources#5---backlog-still-to-readwatch)
@@ -25,6 +25,13 @@
 ### Redux
 
 - [x] [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov 🎞 🆓
+
+2 - Best links for a **quick start** or **practical examples**
+---
+
+### CSS Grid
+
+- [x] [CSS Grid Layout](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) by Rachel Andrew 🎞 🆓 
 
 5 - Backlog: (still to read/watch)
 ---
