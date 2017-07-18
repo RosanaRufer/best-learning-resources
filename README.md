@@ -35,7 +35,7 @@
 
 - [x] [CSS Grid garden](http://cssgridgarden.com/) by Codepip 🎮 🆓 
 
-## Flexbox
+### Flexbox
 
 - [x] [Flexbox froggy](http://www.digitaltrends.com/computing/best-product-key-finders/) by Codepip 🎮 🆓 
 
