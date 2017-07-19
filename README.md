@@ -1,13 +1,24 @@
-# Content
+### Content of this file
 
-- 1 - [Best learning **courses**. Pure gold!! 🥇🥇🥇](https://github.com/Totemika/best-learning-resources#1---best-learning-courses-pure-gold-)
+- 1 - [Best learning **courses**. Pure gold!!](https://github.com/Totemika/best-learning-resources#1---best-learning-courses-pure-gold-)
 - 2 - [Best links for a **quick start** or **practical examples**.](https://github.com/Totemika/best-learning-resources#2-best-links-for-a-quick-start-or-practical-examples)
 - 3 - Best links for **deeper or specific knowledge**.
 - 4 - Best tech **talks**.
 - 5 - [Backlog: Still to read/watch.](https://github.com/Totemika/best-learning-resources#5---backlog-still-to-readwatch)
 
+### Icons meaning
 
-1 - Best learning **courses**. Pure gold!! 🥇🥇🥇
+* 🎞: Video
+* 📘: Book
+* 🆓: Free
+* 💵: Non-free (but it **worths** the money)
+* 🤹‍♀️: Practical and real exercises
+* 🇪🇸: In Spanish
+
+---
+
+
+1 - Best learning **courses**. Pure gold!!
 ---
 
 ### JavaScript
@@ -49,3 +60,5 @@
 - [ ] [VueJS] [Course] [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) by Antonio Dongil 🇪🇸 📘 🆓
 
 - [ ] [Redux] [10 Tips for better Architecture with Redux](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) by Eric Elliot 🔗
+
+
