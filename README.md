@@ -39,7 +39,7 @@
 
 - [x] [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov 🎞 🆓
 
-## CSS 
+### CSS 
 
 - [x] [Bootstrap 4 (alpha)](https://www.youtube.com/playlist?list=PLUoqTnNH-2XyNhhLuYrrmrmV46jVw6RHF) 🎞 🆓 🤹‍♀️
 
