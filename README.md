@@ -41,7 +41,7 @@
 
 ### CSS 
 
-- [x] [Bootstrap 4 (alpha)](https://www.youtube.com/playlist?list=PLUoqTnNH-2XyNhhLuYrrmrmV46jVw6RHF) 🎞 🆓 🤹‍♀️
+- [x] [Bootstrap 4 (alpha)](https://www.youtube.com/playlist?list=PLUoqTnNH-2XyNhhLuYrrmrmV46jVw6RHF) by Brad Hussey 🎞 🆓 🤹‍♀️
 
 2 - Best links for a **quick start** or **practical examples**
 ---
