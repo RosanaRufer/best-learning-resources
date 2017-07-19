@@ -15,7 +15,7 @@
 * 🤹‍♀️: Practical and real exercises
 * 🇪🇸: In Spanish
 * 📰: Blog post
-
+* 🎮: Game
 ---
 
 
