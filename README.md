@@ -33,6 +33,7 @@
 ### React
 
 - [x] [React for beginners](https://reactforbeginners.com/) by Wesbos 🎞 💵 🤹‍♀️
+- [x] [React](http://lemoncode.net/react/) by Lemoncode 🎞 💵 🤹‍♀️ 🇪🇸 
 
 ### Redux
 
