@@ -12,7 +12,7 @@
 
 ### JavaScript
 
-- [x] [JavaScript30](https://javascript30.com/) by Wesbos 🎞 🆓
+- [x] [JavaScript30](https://javascript30.com/) by Wesbos 🎞 🆓 🤹‍♀️
 
 ### Webpack
 
@@ -20,18 +20,22 @@
 
 ### React
 
-- [x] [React for beginners](https://reactforbeginners.com/) by Wesbos 🎞 💵
+- [x] [React for beginners](https://reactforbeginners.com/) by Wesbos 🎞 💵 🤹‍♀️
 
 ### Redux
 
 - [x] [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov 🎞 🆓
+
+## CSS 
+
+- [x] [Bootstrap 4 (alpha)](https://www.youtube.com/playlist?list=PLUoqTnNH-2XyNhhLuYrrmrmV46jVw6RHF) 🎞 🆓 🤹‍♀️
 
 2 - Best links for a **quick start** or **practical examples**
 ---
 
 ### CSS Grid
 
-- [x] [CSS Grid Layout](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) by Rachel Andrew 🎞 🆓 
+- [x] [CSS Grid Layout](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) by Rachel Andrew 🎞 🆓 🤹‍♀️
 
 - [x] [CSS Grid garden](http://cssgridgarden.com/) by Codepip 🎮 🆓 
 
