@@ -14,6 +14,7 @@
 * 💵: Non-free (but it **worths** the money)
 * 🤹‍♀️: Practical and real exercises
 * 🇪🇸: In Spanish
+* 📰: Blog post
 
 ---
 
@@ -59,6 +60,6 @@
 
 - [ ] [VueJS] [Course] [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) by Antonio Dongil 🇪🇸 📘 🆓
 
-- [ ] [Redux] [10 Tips for better Architecture with Redux](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) by Eric Elliot 🔗
+- [ ] [Redux] [10 Tips for better Architecture with Redux](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) by Eric Elliot 📰
 
 
