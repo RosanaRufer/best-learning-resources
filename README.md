@@ -43,6 +43,12 @@
 
 - [x] [Bootstrap 4 (alpha)](https://www.youtube.com/playlist?list=PLUoqTnNH-2XyNhhLuYrrmrmV46jVw6RHF) by Brad Hussey 🎞 🆓 🤹‍♀️
 
+### Rails
+
+- [ ] https://www.youtube.com/channel/UCSI77lJlzlCFPLdV1RSAoYQ 🎞 🆓 🤹‍♀️
+
+- [ ] https://www.railstutorial.org/book/ 📘 🆓 🤹‍♀️
+
 2 - Best links for a **quick start** or **practical examples**
 ---
 
