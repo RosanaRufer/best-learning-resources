@@ -45,9 +45,9 @@
 
 ### Rails
 
-- [ ] https://www.youtube.com/channel/UCSI77lJlzlCFPLdV1RSAoYQ 🎞 🆓 🤹‍♀️
+- [ ] [Rails casts](https://www.youtube.com/channel/UCSI77lJlzlCFPLdV1RSAoYQ) 🎞 🆓 🤹‍♀️
 
-- [ ] https://www.railstutorial.org/book/ 📘 🆓 🤹‍♀️
+- [ ] [Rails tutorial book](https://www.railstutorial.org/book/) 📘 🆓 🤹‍♀️
 
 2 - Best links for a **quick start** or **practical examples**
 ---
